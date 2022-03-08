@@ -93,14 +93,14 @@ border-radius: 20px;
 .form-container form .form-btn{
     background:peru;
     font-weight: 800;
-    color: greenyellow;
+    color: #fff;
     text-transform: capitalize;
     font-size: 20px;
     cursor: pointer;
 }
 .form-container form .form-btn:hover{
-    background: rgb(33, 148, 201);
-    color:peru;
+    background: rgb(236, 182, 5);
+    color:#fff;
 }
 .form-container form  p{
     margin-top: 10px;
@@ -108,7 +108,8 @@ border-radius: 20px;
     color: rgb(32, 212, 218)
 }
 .form-container form   a{
-    color: crimson
+    color:rgb(250, 72, 7);
+    font-weight: 800;
 }
 .form-container form  .error-msg{
     margin: 10px 0;

@@ -70,13 +70,13 @@
     <div class="form-container" style="background-image: linear-gradient(rgba(99,112,168,.5),rgba(81,91,233 ,.5));">
         <?php echo $error; ?>
         <form action="register.php" method="POST">
-            <h3>Register now</h3>
+            <h3>Register </h3>
             <input type="text" name="name" required placeholder="Enter your name">
             <input type="email" name="email" required placeholder="Enter your Email">
             <input type="password" name="password" required placeholder="Enter your Password">
             <input type="password" name="cpassword" required placeholder="Confirm your Password">
-            <input type="submit" name="submit" value="register now" class="form-btn">
-            <p>Already have an account? <a href="login.php">Login now</a></p>
+            <input type="submit" name="submit" value="register" class="form-btn">
+            <p>Already have an account? <a href="login.php">Login</a></p>
         </form>
     </div>
 </body>

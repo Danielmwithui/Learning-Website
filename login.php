@@ -67,12 +67,12 @@
         ?><br/>
         
         <form action="login.php" method="POST">
-            <h3>Login now</h3>
+            <h3>Login </h3>
             <input type="email" name="email" required placeholder="Enter your Email">
             <input type="password" name="password" required placeholder="Enter your Password">
         </select>
-        <input type="submit" name="submit" value="login now" class="form-btn">
-         <p>Don't have an account? <a href="register.php">Register now</a></p>
+        <input type="submit" name="submit" value="login" class="form-btn">
+         <p>Don't have an account? <a href="register.php">Register </a></p>
         </form>
     </div>
 </body>
